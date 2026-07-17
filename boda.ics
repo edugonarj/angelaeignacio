@@ -5,7 +5,7 @@ BEGIN:VEVENT
 DTSTART:20261205T120000Z
 DTEND:20261205T233000Z
 SUMMARY:Boda Ángela & Ignacio
-LOCATION:glesia del Real Convento de Santo Domingo, Jerez de la Frontera
+LOCATION:Iglesia del Real Convento de Santo Domingo, Jerez de la Frontera
 DESCRIPTION:Ceremonia 13:00 en glesia del Real Convento de Santo Domingo, Jerez de la Frontera. Celebración en Bodega Osborne.
 BEGIN:VALARM
 TRIGGER:-P7D
