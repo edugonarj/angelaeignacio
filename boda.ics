@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Boda Ángela e Ignacio//ES
 BEGIN:VEVENT
-DTSTART:20261205T120000Z
+DTSTART:20261205T110000Z
 DTEND:20261205T230000Z
 SUMMARY:Boda Ángela & Ignacio
-LOCATION:Iglesia del Real Convento de Santo Domingo, Jerez de la Frontera
-DESCRIPTION:Ceremonia 13:00 en Iglesia del Real Convento de Santo Domingo, Jerez de la Frontera. Celebración en Bodega Osborne.
+LOCATION:Basílica Menor de Nuestra Señora del Carmen Coronada, Jerez de la Frontera
+DESCRIPTION:Ceremonia 12:00 en Basílica Menor de Nuestra Señora del Carmen Coronada, Jerez de la Frontera. Celebración en Bodega Osborne.
 BEGIN:VALARM
 TRIGGER:-P7D
 ACTION:DISPLAY
